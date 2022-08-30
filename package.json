@@ -1,0 +1,23 @@
+{
+  "name": "keeper-app",
+  "version": "1.0.0",
+  "proxy": "https://keeper-app-bice.vercel.app",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Namnika/Keeper-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Namnika/Keeper-app/issues"
+  },
+  "homepage": "https://github.com/Namnika/Keeper-app#readme",
+  "dependencies": {
+    "node-modules": "^1.0.1"
+  }
+}
