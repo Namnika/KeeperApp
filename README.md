@@ -6,7 +6,7 @@ It will help you keep yourself on track and provide more space for visibility.
 ## Overview
 
 ### Screenshot
-<img src="/public/KeeperScreenshot.png" width=850 height=580/>
+<img src="/public/KeeperScreenshot.png" width=700 height=500/>
 
 ### Link
 - Live Site URL: [Keeper](https://keeper-app7.netlify.app/)
