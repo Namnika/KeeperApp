@@ -20,7 +20,6 @@ It will help you keep yourself on track and provide more space for visibility.
 - [Node.js](https://nodejs.org/en) - For backend
 - [Express](https://expressjs.com/) - Node.js framework
 - [MongoDB](https://mongodb.com/) - Database
-- [Passport.js](https://www.passportjs.org/) - For authentication
 
 ### To Get Started
 
