@@ -16,6 +16,7 @@ It will help you keep yourself on track and provide more space for visibility.
 ### Built with
 - Semantic HTML5 Markup
 - CSS3
+- AJAX
 - [React](https://react.dev/) - JS library
 - [Node.js](https://nodejs.org/en) - For backend
 - [Express](https://expressjs.com/) - Node.js framework
